@@ -1,0 +1,23 @@
+.title-proyectos {
+    font-family: 'Work Sans', 'sans-serif';
+    font-size: 36px;
+    font-weight: 50%;
+    letter-spacing: -1px;
+
+}
+
+.btn-agregar{
+    color: #E2231A;
+
+}
+
+.btn-cancel{
+    background-color: #E2231A;
+    color: rgb(255, 255, 255);
+}
+
+.btn-register{
+    background-color: #263562;
+    color: rgb(255, 255, 255);
+}
+
